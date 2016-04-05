@@ -10,6 +10,9 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
+# Created by MSVS and probably not needed
+taco.json
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
